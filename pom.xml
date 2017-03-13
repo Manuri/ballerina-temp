@@ -34,9 +34,9 @@
     <url>http://ballerinalang.org</url>
 
     <scm>
-        <url>https://github.com/ballerinalang/ballerina.git</url>
-        <developerConnection>scm:git:https://github.com/ballerinalang/ballerina.git</developerConnection>
-        <connection>scm:git:https://github.com/ballerinalang/ballerina.git</connection>
+        <url>https://github.com/manuri/ballerina-temp.git</url>
+        <developerConnection>scm:git:https://github.com/manuri/ballerina-temp.git</developerConnection>
+        <connection>scm:git:https://github.com/manuri/ballerina-temp.git</connection>
         <tag>HEAD</tag>
     </scm>
 
@@ -534,6 +534,8 @@
         <commons-vfs2.wso2.version>2.0-wso2v15</commons-vfs2.wso2.version>
         <commons-net.version>3.6</commons-net.version>
         <ftp-server-core.version>1.0.6</ftp-server-core.version>
+
+        <project.scm.id>my-scm-server</project.scm.id>
     </properties>
 
     <modules>
