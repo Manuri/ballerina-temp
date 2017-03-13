@@ -28,7 +28,7 @@
     <groupId>org.ballerinalang</groupId>
     <artifactId>ballerina-parent</artifactId>
     <packaging>pom</packaging>
-    <version>0.8.10-SNAPSHOT</version>
+    <version>0.8.10</version>
     <name>Ballerina - Parent</name>
 
     <url>http://ballerinalang.org</url>
@@ -37,7 +37,7 @@
         <url>https://github.com/manuri/ballerina-temp.git</url>
         <developerConnection>scm:git:https://github.com/manuri/ballerina-temp.git</developerConnection>
         <connection>scm:git:https://github.com/manuri/ballerina-temp.git</connection>
-        <tag>HEAD</tag>
+        <tag>ballerina-parent-0.8.10</tag>
     </scm>
 
     <dependencyManagement>
@@ -436,7 +436,7 @@
     </build>
 
     <properties>
-        <ballerina.version>0.8.10-SNAPSHOT</ballerina.version>
+        <ballerina.version>0.8.10</ballerina.version>
         <ballerina.package.export.version>0.8.0</ballerina.package.export.version>
 
         <!-- Maven plugins -->
