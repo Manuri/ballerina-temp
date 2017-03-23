@@ -34,9 +34,9 @@
     <url>http://ballerinalang.org</url>
 
     <scm>
-        <url>https://github.com/ballerinalang/ballerina.git</url>
-        <developerConnection>scm:git:https://github.com/ballerinalang/ballerina.git</developerConnection>
-        <connection>scm:git:https://github.com/ballerinalang/ballerina.git</connection>
+        <url>https://github.com/manuri/ballerina-temp.git</url>
+        <developerConnection>scm:git:https://github.com/manuri/ballerina-temp.git</developerConnection>
+        <connection>scm:git:https://github.com/manuri/ballerina-temp.git</connection>
         <tag>HEAD</tag>
     </scm>
 
